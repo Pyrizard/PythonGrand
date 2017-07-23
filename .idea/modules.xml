@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PCube-PythonProgramsPyrizard.iml" filepath="$PROJECT_DIR$/.idea/PCube-PythonProgramsPyrizard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Source-Code-from-Tutorials/Python/.idea/Python.iml" filepath="$PROJECT_DIR$/../Source-Code-from-Tutorials/Python/.idea/Python.iml" />
     </modules>
   </component>
 </project>

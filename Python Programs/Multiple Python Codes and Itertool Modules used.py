@@ -1,7 +1,7 @@
 '''
 Python based code developed by 👾 Pyrizard
 Powered by SoloLearn 🌟
-
+.............................................................................
 Kindly upvote 👍 if u find this useful and drop a comment for any query 🙋 '''
 
 from itertools import count
