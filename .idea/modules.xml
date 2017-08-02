@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PCube-PythonProgramsPyrizard.iml" filepath="$PROJECT_DIR$/.idea/PCube-PythonProgramsPyrizard.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Source-Code-from-Tutorials/Python/.idea/Python.iml" filepath="$PROJECT_DIR$/../Source-Code-from-Tutorials/Python/.idea/Python.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Website/.idea/Website.iml" filepath="$USER_HOME$/PycharmProjects/Website/.idea/Website.iml" />
     </modules>
   </component>
 </project>
