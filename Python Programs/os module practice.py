@@ -40,7 +40,7 @@ print(os.environ)
 
 
 #This will change dir. Please note this is dir of ide terminal and not the directory of this .py file. To understand this better check cmd dir first[not in cmd but using os.getcwd() command].
-#Then execute this code with new directory link. backslash and forward slashes both work fine
+#Then execute this code with new directory link. preferably use forward slash
 print(os.getcwd())
 os.chdir("C:/Users/Admin/Documents")
 print(os.getcwd())
