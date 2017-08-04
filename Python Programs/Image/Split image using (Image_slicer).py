@@ -1,7 +1,8 @@
 import os
 import image_slicer
+#Dont forget to download this using         pip install image_slicer
 
-#
+
 #This is to show that your cwd which could be different
 print(os.getcwd())
 
